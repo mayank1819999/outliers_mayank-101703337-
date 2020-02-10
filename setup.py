@@ -19,7 +19,7 @@ setuptools.setup(
     long_description="",
     long_description_content_type="text/markdown",
     url="https://github.com/mayank1819999/outliers_mayank(101703337)",
-    download_url="https://github.com/mayank1819999/outliers_mayank(101703337)/archive/0.0.3.tar.gz",
+    download_url="https://github.com/mayank1819999/outliers_mayank-101703337-/archive/0.0.3.tar.gz",
     packages=["outliers_mayank(101703337)"],
     classifiers=[
         "Programming Language :: Python :: 3",
